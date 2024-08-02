@@ -1,7 +1,7 @@
 m, n, a = input().split()
 
 x = 0
-y = 0
+y = 0 
 
 if int(m)%int(a) == 0:
     x = int(m)/int(a)
