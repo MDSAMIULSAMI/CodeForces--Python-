@@ -1,0 +1,1 @@
+friend, height = map(int, input().split())
